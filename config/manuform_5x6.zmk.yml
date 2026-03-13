@@ -1,0 +1,13 @@
+file_format: "1"
+id: manuform_5x6
+name: dactyl manuform 5x6
+type: shield
+url: https://github.com/Felicisnot/manuform_5x6
+requires:
+  - pro_micro
+features:
+  - keys
+  - studio
+siblings:
+  - manuform_5x6_left
+  - manuform_5x6_left
